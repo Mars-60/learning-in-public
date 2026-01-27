@@ -1,4 +1,4 @@
-Day 5 - 26.01.2026 (Monday)
+Day 6 - 26.01.2026 (Monday)
 - Completed backend logic. 
 - React frontend set up (Vite)
 - Auth → Home → Workspace flow implemented
