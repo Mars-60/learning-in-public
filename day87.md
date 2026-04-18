@@ -1,6 +1,6 @@
 # Progress Log
 
-## Day 87 — 17.04.2026
+## Day 87 — 17.04.2026 (Friday)
 
 ### 📚 Topics Revised
 
