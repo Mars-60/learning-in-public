@@ -25,23 +25,6 @@ This repository is my **daily progress log**, where I document:
 
 ---
 
-## 📅 The Turning Point — Day 86 🚨
-
-From **Day 86 onwards**, I shifted to a **more focused and disciplined revision strategy**.
-
-What changed:
-
-* 🔁 Daily revision of core concepts
-* 🎯 Strong focus on **depth over quantity**
-* 🧩 More emphasis on **problem-solving patterns**
-* 📌 Tracking consistency seriously
-
-This phase marks the transition from:
-
-> ❌ Just learning → ✅ Actually mastering concepts
-
----
-
 ## 📊 Progress Structure
 
 Each day is documented like this:
